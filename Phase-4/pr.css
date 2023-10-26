@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+#status-container {
+    border: 1px solid #333;
+    padding: 10px;
+    margin: 20px;
+    display: inline-block;
+}
+
+#flow-rate {
+    font-weight: bold;
+}
+
+#malfunction {
+    color: green;
+    font-weight: bold;
+}
+
+#refresh-button {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
